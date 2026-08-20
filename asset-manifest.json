@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Self-boost-quotes/static/css/main.1f9603cb.css",
-    "main.js": "/Self-boost-quotes/static/js/main.116c6cdb.js",
+    "main.js": "/Self-boost-quotes/static/js/main.918142c5.js",
     "index.html": "/Self-boost-quotes/index.html",
     "main.1f9603cb.css.map": "/Self-boost-quotes/static/css/main.1f9603cb.css.map",
-    "main.116c6cdb.js.map": "/Self-boost-quotes/static/js/main.116c6cdb.js.map"
+    "main.918142c5.js.map": "/Self-boost-quotes/static/js/main.918142c5.js.map"
   },
   "entrypoints": [
     "static/css/main.1f9603cb.css",
-    "static/js/main.116c6cdb.js"
+    "static/js/main.918142c5.js"
   ]
 }
