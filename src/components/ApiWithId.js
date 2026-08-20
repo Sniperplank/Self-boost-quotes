@@ -16,7 +16,7 @@ const ApiWithId = () => {
                 <Stack spacing={5}>
                     <Typography variant='body1' color='text.main' maxWidth={400}>You can specify the id of the quote and always get the right quote for the id. Just change the id number in the URL to the desired id.</Typography>
                     <Typography variant='body1' color='primary' sx={{ textDecoration: 'underline' }}>https://self-boost-quotes-api.vercel.app?id=14</Typography>
-                    <StyledButton onClick={() => openInNewTab('https://self-boost-quotes-api.vercel.app?id=14')} endIcon={<OpenInNewIcon />} variant='contained' color='primary'>Try it</StyledButton>
+                    <StyledButton onClick={() => openInNewTab('https://self-boost-quotes-api.onrender.com?id=14')} endIcon={<OpenInNewIcon />} variant='contained' color='primary'>Try it</StyledButton>
                 </Stack>
                 <Box sx={{ backgroundColor: '#10062e', width: { xs: '80%', md: 400 }, height: 200, borderRadius: 10, borderWidth: 2, borderColor: 'white', padding: 3 }}>
                     <Stack spacing={1} sx={{ color: '#881bd1' }}>

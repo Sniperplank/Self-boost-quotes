@@ -26,8 +26,8 @@ const Api = () => {
                 </Box>
                 <Stack spacing={5}>
                     <Typography variant='body1' color='text.main' maxWidth={400}>The API will return two properties, id and message. Message is the random quote that is being returned and the id is unique to that quote.</Typography>
-                    <Typography variant='body1' color='primary' sx={{ textDecoration: 'underline' }}>https://self-boost-quotes-api.vercel.app/</Typography>
-                    <StyledButton onClick={() => openInNewTab('https://self-boost-quotes-api.vercel.app/')} endIcon={<OpenInNewIcon />} variant='contained' color='primary'>Try it</StyledButton>
+                    <Typography variant='body1' color='primary' sx={{ textDecoration: 'underline' }}>https://self-boost-quotes-api.onrender.com</Typography>
+                    <StyledButton onClick={() => openInNewTab('https://self-boost-quotes-api.onrender.com')} endIcon={<OpenInNewIcon />} variant='contained' color='primary'>Try it</StyledButton>
                 </Stack>
             </Stack>
         </Stack>

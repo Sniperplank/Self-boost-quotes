@@ -13,7 +13,7 @@ const GenerateQuote = () => {
     }
 
     useEffect(() => {
-        fetch('https://self-boost-quotes-api.vercel.app/')
+        fetch('https://self-boost-quotes-api.onrender.com/')
             .then(res => res.json())
             .then((data) => {
                 setQuote(data.message)
