@@ -1,3 +1,3 @@
 # Self-boost-quotes-frontend
 
-https://self-boost-quotes-frontend.vercel.app/
+https://sniperplank.github.io/Self-boost-quotes
